@@ -76,10 +76,4 @@ figure.update_xaxes(
 )
 figure.show()'''
 
-if data[Volume]<1000:
-    print("this cond lies under sell")
-else:
-    print("not in range")
-print("ghyfgf")
-    
 
